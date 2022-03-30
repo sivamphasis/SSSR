@@ -19,7 +19,7 @@ class ComplexNumber {
     {
         System.out.println(this.real + " +i " + this.image);
     }
-  
+  GIHUB****************jhbfjkhdsgkjjdl;fshngklfdlsngklfdnsklhnk,gfdnsmhbngm, sdnfh
     // we will implement  this function for addition
     public complex add(ComplexNumber, ComplexNumber);
 }
